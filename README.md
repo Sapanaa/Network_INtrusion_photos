@@ -13,8 +13,7 @@ If you are reviewing the project documentation and want to access or reference t
 ## Usage
 Feel free to browse, download, or use these images for academic or project-related purposes. Proper citation is appreciated if you use them elsewhere.
 
-## Link to Project Report
-You can find the full project report that uses these images here: [Insert Your Project Report Link]
+
 
 ---
 
